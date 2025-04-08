@@ -4,13 +4,13 @@
 # Hi, I'm Saif Hussain 👋
 
 ## Overview
-I'm a **Master's student in Computer Applications (MCA)** with a keen interest in **web development** and **software engineering**. Passionate about coding and building innovative solutions, I specialize in **front-end** and **back-end** development. I'm constantly learning new technologies and enhancing my skills in the tech world.
+I'm a **Master's student in Computer Applications (MCA)** with a keen interest in **web development** and **software engineering**. Passionate about coding and building innovative solutions, I specialize in **DataBase Management** as well as **front-end** and **back-end** development. I'm constantly learning new technologies and enhancing my skills in the tech world.
 
 ### 🔧 Technologies & Tools:
-- **Languages**: HTML, CSS, JavaScript, PHP, Python
-- **Frameworks**: React, Node.js, Express
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub, VS Code
+- **Languages**: Python, HTML, CSS, JavaScript 
+- **Frameworks**: React, Node.js
+- **Databases**: Oracle, MySQL
+- **Tools**: GITHUB, VS CODE, NETLIFY, VERCEL, FRAMER
 
 ### 🌱 Currently Learning:
 - **Advanced JavaScript** and **React**
