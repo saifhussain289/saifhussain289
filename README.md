@@ -1,8 +1,6 @@
-## Hi there 👋
-
 ![image](https://github.com/user-attachments/assets/cb08ed75-bc0d-4d8d-8fa7-092845f74744)
 
-# Hi, I'm Saif Hussain 👋
+# I'm Saif Hussain 👋
 
 ## Overview
 I'm a **Master's student in Computer Applications (MCA)** with a keen interest in **web development** and **software engineering**. Passionate about coding and building innovative solutions, I specialize in **DataBase Management** as well as **front-end** and **back-end** development. I'm constantly learning new technologies and enhancing my skills in the tech world.
