@@ -23,9 +23,8 @@ I'm a **Master's student in Computer Applications (MCA)** with a keen interest i
 - Participated in **coding competitions** and ranked in the top 10 in college events.
 
 ### 📫 How to reach me:
-- LinkedIn: [Saif Hussain LinkedIn](https://www.linkedin.com/in/saif-hussain)
-- Email: saifhussain@example.com
-- Twitter: [@saifhussain](https://twitter.com/saifhussain) (if applicable)
+- LinkedIn: [Saif Hussain LinkedIn]([https://www.linkedin.com/in/saif-hussain](https://www.linkedin.com/in/saif-hussain289/))
+- Email: saifhussain289@gmail.com
 
 ---
 
