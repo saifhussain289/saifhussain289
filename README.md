@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cb08ed75-bc0d-4d8d-8fa7-092845f74744)
+<a href="https://rishavchanda.io"><img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="MasterHead" width="1020" height="450"></a>
 
 # I'm Saif Hussain 👋
 
